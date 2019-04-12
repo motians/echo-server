@@ -3,6 +3,7 @@ Thumbs.db
 ehthumbs.db
 
 .idea/
+venv/
 
 # Folder config file
 Desktop.ini
