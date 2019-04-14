@@ -49,6 +49,7 @@ def client(msg, log_buffer=sys.stderr):
         return received_message
 
 if __name__ == '__main__':
+
     if len(sys.argv) != 2:
         usage = '\nusage: python echo_client.py "this is my message"\n'
         print(usage, file=sys.stderr)
