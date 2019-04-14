@@ -1,3 +1,9 @@
+# What I did
+Client and server scripts completed.
+Verified the tests pass for both server modules.
+Created echo_server_multi that can handle multiple client connections.
+
+
 Echo Server Homework
 ==================
 
